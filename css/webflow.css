@@ -1773,6 +1773,7 @@ textarea.w-select {
   position: relative;
   display: block;
   overflow: hidden;
+  margin-top: 20px;
 }
 .w-tab-pane {
   position: relative;
